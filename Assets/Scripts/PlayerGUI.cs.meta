@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 636fe4b5dfad5464d8bde716c29f7a25
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Crosshairs: {fileID: 11400000, guid: 2440e540fd70f47299dab35fac407d47, type: 2}
+  - tex: {instanceID: 0}
+  - hoverTex: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
